@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nabiul Farhan Nabil</h1>
 <h3 align="center">A Computer Science student who is passionate about Data Science</h3>
 
-- 🔭 I’m currently working on **Dataset Visualisation (tweeter dataset)**
+- 🔭 I’m currently working on **Dataset Visualisation (twitter dataset)**
 
 - 🌱 I’m currently learning **Python, SQL, MySQL**
 
